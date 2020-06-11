@@ -1,1 +1,1 @@
-<b 30 Days of Coding Challenge>
+You will find all my new web projects here.
